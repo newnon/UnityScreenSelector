@@ -41,9 +41,6 @@
     <ClCompile Include="Preferences.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="ScreenSelectionDialog.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="ScreenSelector.rc">

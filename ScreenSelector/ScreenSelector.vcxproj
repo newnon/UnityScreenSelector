@@ -159,7 +159,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Preferences.cpp" />
-    <ClCompile Include="ScreenSelectionDialog.cpp" />
     <ClCompile Include="ScreenSelector.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
